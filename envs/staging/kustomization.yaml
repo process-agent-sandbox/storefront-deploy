@@ -5,4 +5,4 @@ resources:
   - ../../base
 images:
   - name: ghcr.io/process-agent-sandbox/storefront
-    newTag: sha-951a7b9
+    newTag: sha-d4fcf96
